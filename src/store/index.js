@@ -5,10 +5,15 @@ Vue.use(Vuex);
 
 export default new Vuex.Store({
   state: {
+    currencyRates: {
+      type: Array,
+    },
+    isLoaded: false,
   },
   mutations: {
   },
   actions: {
+
   },
   modules: {
   },
