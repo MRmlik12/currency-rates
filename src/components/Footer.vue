@@ -7,7 +7,7 @@
     </div>
     <div id="icons">
       <i class="icon-github-circled" title="profile" @click="githubClicked"></i>
-      <i class="icon-flow-branch" title="repo" @click="githubClicked"></i>
+      <i class="icon-flow-branch" title="repo" @click="repoClicked"></i>
     </div>
   </div>
 </template>
