@@ -1,5 +1,6 @@
 # currency-rates
-A basic currency rates chart created with Vue.js
+A basic currency rates chart created with Vue.js. 
+Rates data is from [exchangeratesapi.io](https://exchangeratesapi.io/)
 
 ## Project setup
 ```
