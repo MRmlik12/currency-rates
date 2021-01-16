@@ -61,5 +61,6 @@ export default {
   background-color: #121212;
   height: 15%;
   padding: 12px;
+  text-align: center;
 }
 </style>
